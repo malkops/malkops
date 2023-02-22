@@ -24,4 +24,8 @@ I'm a tech enthusiast who loves to learn about new things. Connect with me on [L
 
 ---
 
+### My programming stack
+
+[![My codewars profile](https://www.codewars.com/users/malkops/badges/large)](https://www.codewars.com/users/malkops)
+
 ![Top used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malkops&layout=compact&theme=dracula)
