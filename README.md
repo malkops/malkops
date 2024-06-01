@@ -2,8 +2,6 @@
 
 I'm a tech enthusiast who loves to learn about new things. Connect with me on [LinkedIn](https://www.linkedin.com/in/matvey-malkov/).
 
-Check out my [CV](https://malkops.github.io/)
-
 ---
 
 ### My tech stack
